@@ -1,2 +1,2 @@
-# issues
-🐛 Bug Reports 🙋 Feature requests 🙌 Suggestions
+## How to contribute
+- See [HOW_TO_CONTRIBUTE.md]()
