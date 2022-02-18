@@ -1,2 +1,4 @@
-## How to contribute
-- See [CONTRIBUTING.md](https://github.com/mindspotapp/issues/blob/main/CONTRIBUTING.md)
+# Contributing to MindSpot
+
+## Submit an issue
+
